@@ -1,0 +1,3 @@
+C:\Users\alimi\Source\repos\node-typescript\node-typescript\obj\Debug\node-typescript.njsprojResolveAssemblyReference.cache
+C:\Users\alimi\Source\repos\node-typescript\node-typescript\obj\Debug\node-typescript.njsproj.CoreCompileInputs.cache
+C:\Users\alimi\Source\repos\node-typescript\node-typescript\bin\Microsoft.NodejsTools.WebRole.dll
